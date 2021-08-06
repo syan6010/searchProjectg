@@ -1,0 +1,59 @@
+* {
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+nav .mark-icon {
+  margin: 4px 0 0 1rem;
+  display: inline-block;
+}
+
+.container nav.bread-header {
+  padding: 1rem;
+}
+
+section.search-box {
+  padding: 1rem;
+  font-size: 0.75rem;
+  max-width: 60%;
+  margin: auto;
+}
+
+section.data-info {
+  padding: 1rem;
+  max-width: 60%;
+  margin: auto;
+}
+
+section.data-info .info-img {
+  margin: 1rem;
+  border-radius: 10px;
+  width: 80%;
+  height: auto;
+}
+
+section.data-info p,
+section.data-info h4 {
+  margin: 1rem;
+}
+
+.advance-search span {
+  font-size: 1.5rem;
+}
+
+.advance-search .col {
+  margin-bottom: 1rem;
+}
+
+form .advance-search .descript {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+form .advance-search .fourth button {
+  margin: 1rem 1.5rem 0 0;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+}
